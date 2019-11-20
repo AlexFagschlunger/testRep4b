@@ -6,5 +6,6 @@ namespace Binary_Tree.models
 {
     class DeletMY
     {
+        string alaa = "Hier schiss marcel";
     }
 }
