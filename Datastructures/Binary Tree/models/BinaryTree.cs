@@ -13,6 +13,10 @@ namespace Binary_Tree.models
         {
             this.counter++;
         }
+        public void increaseCounter_2()
+        {
+            this.counter++;
+        }
 
         private BinaryTreeItem _root;
 
