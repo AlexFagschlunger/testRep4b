@@ -11,6 +11,7 @@ namespace Binary_Tree.models
 
         public void increaseCounter()
         {
+            // Hallo
             this.counter++;
             counter = counter + 6;
             counter = 5;
