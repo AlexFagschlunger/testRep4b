@@ -12,7 +12,7 @@ namespace Binary_Tree.models
         public void increaseCounter()
         {
             this.counter++;
-            counter = counter + 2;
+            counter = counter + 1;
         }
         private BinaryTreeItem _root;
 
