@@ -13,6 +13,7 @@ namespace Binary_Tree.models
         {
             this.counter++;
             counter = counter + 1;
+            counter = 5;
         }
         private BinaryTreeItem _root;
 
