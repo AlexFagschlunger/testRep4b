@@ -17,6 +17,7 @@ namespace Binary_Tree.models
             counter = 5;
             counter = counter * 2;
             // Fabi
+            // MArcel
         }
         private BinaryTreeItem _root;
 
