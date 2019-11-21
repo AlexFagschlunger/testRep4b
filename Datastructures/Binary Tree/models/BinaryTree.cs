@@ -12,7 +12,10 @@ namespace Binary_Tree.models
         public void increaseCounter()
         {
             this.counter++;
-            counter = counter + 1;
+            counter = counter + 6;
+            counter = 5;
+            counter = counter * 2;
+            // Fabi
         }
         private BinaryTreeItem _root;
 
